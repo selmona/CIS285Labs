@@ -4,10 +4,10 @@ Public class duck {
 		system.out.println("A duck can fly");
 	}  /* * Tom branch is responsible for swim() method. */
 	public swim(){
-	system.out.println("A duck can swim");
+	system.out.println("A duck can also swim");
 	/* * Bob branch is responsible for eat() method. */
 	public eat(){
-		system.out.println("A duck can eat");
+		system.out.println("A duck can eat as well");
 
 	}
-}
+}//new comment for git change
